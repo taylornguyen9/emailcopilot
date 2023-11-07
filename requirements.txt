@@ -1,6 +1,5 @@
 Flask==2.0.2
 gunicorn
-json
 ssl
 nltk
 openai
