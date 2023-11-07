@@ -1,6 +1,5 @@
 import os
 import nltk
-import openai
 import urllib.request
 import json
 import ssl
